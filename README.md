@@ -1,4 +1,5 @@
 # lab13
+[![Build Status](https://travis-ci.org/DespiteDeath/lab13.svg?branch=master)](https://travis-ci.org/DespiteDeath/lab13)
 
 Структура `Person` определяется следующим образом:
 
